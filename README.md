@@ -13,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anas_elgarhy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anas_elgarhy" height="30" width="40" /></a>
-<a href="https://twitter.com/anas_elgarhy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anas_elgarhy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anas-elgarhy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anas-elgarhy" height="30" width="40" /></a>
-<a href="https://fb.com/anas.ahmed.elgarhy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anas.ahmed.elgarhy" height="30" width="40" /></a>
-<a href="https://instagram.com/anas_elgarhy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anas_elgarhy" height="30" width="40" /></a>
+<a href="https://twitter.com/anas_elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anas-elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40" /></a>
+<a href="https://fb.com/anas.ahmed.elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40" /></a>
+<a href="https://instagram.com/anas_elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40" /></a>
 </p>
 
 <!--
