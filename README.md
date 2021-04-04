@@ -12,7 +12,7 @@
 <p><a href="https://www.buymeacoffee.com/anas.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anas.dev" /></a></p><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/anas_elgarhy" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fbrand&psig=AOvVaw01TNsAwWeeDcl1TlCD05cH&ust=1617662691167000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiZxaLV5e8CFQAAAAAdAAAAABAS" alt="anas_elgarhy" height="30" width="40" /></a>
+<a href="https://dev.to/anas_elgarhy" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="anas_elgarhy" height="30" width="40" /></a>
 <a href="https://twitter.com/anas_elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anas-elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40" /></a>
 <a href="https://fb.com/anas.ahmed.elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40" /></a>
