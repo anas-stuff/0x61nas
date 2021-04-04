@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- I'm currently learning IT in the EELU university 😁
+- But I learning to program Since I was 13 years old 😄
+- I'm very very very love programming 🖤
+- And I'm like cats very much too 😍
+- I am looking for help with learning machine learning 🤔
+- ⚡ Fun fact: I'm from the top fan to teen titans film😆
 <!--
 **Anas-Elgarhy/Anas-Elgarhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
