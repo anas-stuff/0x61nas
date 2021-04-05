@@ -3,7 +3,7 @@
 - But I learning to program Since I was 13 years old 😄
 - I'm very very very love programming 🖤
 - And I'm like cats very much too 😍
-- I like listening to music too
+- I like listening to music too ❤
 - I am looking for help with learning machine learning 🤔
 - ⚡ Fun fact: I'm from the top fan to teen titans film😆
 
