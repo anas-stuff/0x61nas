@@ -10,7 +10,8 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/anas.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anas.dev" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/anas.dev"> <img align="left" src="https://
+cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anas.dev" /></a></p><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anas_elgarhy" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="anas_elgarhy" height="30" width="40" /></a>
