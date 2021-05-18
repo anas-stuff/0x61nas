@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I'm from the top fan to teen titans film😆
 
 
-<h2>Quote:</h2>
-<h2>&quotA computer is the person who understands me better than anyone else&quot</h2>
+<h3>Quote:</h3>
+<h3>&quot;A computer is the person who understands me better than anyone else&quot;</h3>
 
 
 <h3 align="left">Support:</h3>
