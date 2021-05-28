@@ -24,7 +24,7 @@
 </p>
 
 ---
-<p align="center">⚡ Number of Visitors⚡ <br>
+<p align="center">⚡ Number of Visitors ⚡ <br>
 <img alr="⚡ Number of Visitors ⚡b" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
 <!--
