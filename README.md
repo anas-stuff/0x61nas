@@ -23,6 +23,10 @@
 <a href="https://instagram.com/anas_elgarhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/main/social_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40" /></a>
 </p>
 
+---
+<p align="center">⚡ Number of Visitors⚡ <br>
+<img alr="⚡ Number of Visitors ⚡b" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
+</p>
 <!--
 **Anas-Elgarhy/Anas-Elgarhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
