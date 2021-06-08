@@ -56,13 +56,13 @@
       <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=javascript" target="_blank">
         <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white">
       </a>
-      <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=javascript" target="_blank">
+      <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=c" target="_blank">
         <img alt="C language" src="https://img.shields.io/badge/-C-649AD2?style=flat-square&logo=c&logoColor=white">
       </a>
       <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=c%2B%2B" target="_blank">
         <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white">
       </a>
-      <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=c%2B%2B" target="_blank">
+      <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=lua" target="_blank">
         <img alt="Lua language" src="https://img.shields.io/badge/-lua-000081?style=flat-square&logo=lua&logoColor=white">
       </a>
       <!-- <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=go" target="_blank">
