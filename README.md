@@ -76,9 +76,11 @@
         <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
       </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs" width="70%"/>
   <br>
-  <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&theme=tokyonight"/>
+  <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&layout=compact&theme=tokyonight" width="70%"/>
+  
   <br>
      <a href="https://github.com/Anas-Elgarhy?tab=followers" target="_blank">
         <img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
