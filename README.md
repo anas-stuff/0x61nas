@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm currently learning IT in the EELU university 😁
-- But I learning to program Since I was 13 years old 😄
+- But I learning to programming Since I was 13 years old 😄
 - I'm very very very love programming 🖤
 - And I'm love cats very much too 😍
 - I like listening to music too ❤
