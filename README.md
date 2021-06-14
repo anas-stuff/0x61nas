@@ -41,7 +41,7 @@
    <summary> <samp>&#9776; See more details</samp></summary>
     <p align="center">
      <br>
-     <!-- All rebostryes -->
+     <!-- All repositories -->
       <a href="https://github.com/Anas-Elgarhy?tab=repositories" target="_blank">
         <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
       </a>
