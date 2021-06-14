@@ -5,7 +5,6 @@
 - And I'm love cats very much too 😍
 - I like listening to music too ❤
 - I am looking for help with learning machine learning 🤔
-- ⚡ Fun fact: I'm from the top fan to teen titans film😆
 
 <h3 align="left">Support:</h3>
 <p>
