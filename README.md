@@ -7,11 +7,6 @@
 - I am looking for help with learning machine learning 🤔
 - ⚡ Fun fact: I'm from the top fan to teen titans film😆
 
-
-<h3>Quote:</h3>
-<h3>&quot;A computer is the person who understands me better than anyone else&quot;</h3>
-
-
 <h3 align="left">Support:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/anas.dev">
