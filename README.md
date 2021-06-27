@@ -19,16 +19,16 @@
         <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="anas_elgarhy" height="30" width="40"/>
     </a>
     <a href="https://twitter.com/anas_elgarhy" target="_blank">
-        <img align="center" src="./social_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40" />
+        <img align="center" src="./social_media_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
-        <img align="center" src="./social_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40"/>
+        <img align="center" src="./social_media_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40"/>
     </a>
     <a href="https://fb.com/anas.ahmed.elgarhy" target="_blank">
-        <img align="center" src="./social_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40"/>
+        <img align="center" src="./social_media_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40"/>
     </a>
     <a href="https://instagram.com/anas_elgarhy" target="_blank">
-        <img align="center" src="./social_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40"/>
+        <img align="center" src="./social_media_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40"/>
     </a>
 </p>
 
@@ -98,17 +98,3 @@
 </details>
 <br>
 </details>
-<!--
-**Anas-Elgarhy/Anas-Elgarhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
