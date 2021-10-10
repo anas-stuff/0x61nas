@@ -95,6 +95,9 @@
      </a>
   </samp>
   </p>
+  
+  [![wakatime](https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg)](https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20)
+  
 </details>
 <br>
 </details>
