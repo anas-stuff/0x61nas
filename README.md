@@ -84,8 +84,7 @@
 
   <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&layout=compact&theme=tokyonight" width="70%"/>
   <br>
-<img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight" width="70%">
-  
+  <img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight&hide=other" width="70%">
   <br>
      <a href="https://github.com/Anas-Elgarhy?tab=followers" target="_blank">
         <img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
