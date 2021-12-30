@@ -1,12 +1,10 @@
-name: Genrate snake
+name: generate animation
 
 on:
-  #Run automatically evry 6 hours
+  # run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *"
-    
-    
-
+    - cron: "0 */6 * * *" 
+  
   # allows to manually run the job at any time
   workflow_dispatch:
   
@@ -25,7 +23,7 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-      - uses: Platane/snk@master
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
