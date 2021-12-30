@@ -2,20 +2,17 @@
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
-<ul display="inline" >
-  <li> I'm currently learning IT in the EELU university 😁 </li>
-  <li> But I learning to programming Since I was 13 years old 😄 </li>
-  <li> I'm very very very love programming 🖤 </li>
-  <li> And I'm love cats very much too 😍 </li>
-  <li> I like listening to music too ❤ </li>
-  <li> I am looking for help with learning machine learning 🤔 </li>
-</ul>
+- I'm currently learning IT in the EELU university 😁
+- But I learning to programming Since I was 13 years old 😄
+- I'm very very very love programming 🖤 
+- And I'm love cats very much too 😍 
+- I like listening to music too ❤ 
+- I am looking for help with learning machine learning 🤔 
 
 <br>
-<hr style="background-color: #d6d6d600">
 <!-- contribution snake -->
 <p align="center">
-<img alt="contribution snake" width="50%" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/output/github-contribution-grid-snake.svg" />
+<img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br>
