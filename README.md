@@ -1,19 +1,33 @@
 ### Hi there 👋
 
-- I'm currently learning IT in the EELU university 😁
-- But I learning to programming Since I was 13 years old 😄
-- I'm very very very love programming 🖤
-- And I'm love cats very much too 😍
-- I like listening to music too ❤
-- I am looking for help with learning machine learning 🤔
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
-<h3 align="left">Support:</h3>
+<ul display="inline" >
+  <li> I'm currently learning IT in the EELU university 😁 </li>
+  <li> But I learning to programming Since I was 13 years old 😄 </li>
+  <li> I'm very very very love programming 🖤 </li>
+  <li> And I'm love cats very much too 😍 </li>
+  <li> I like listening to music too ❤ </li>
+  <li> I am looking for help with learning machine learning 🤔 </li>
+</ul>
+
+<br>
+<hr style="background-color: #d6d6d600">
+<!-- contribution snake -->
+<p align="center">
+<img alt="contribution snake" width="50%" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br>
+<!-- -->
+<p  align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
+
+<!-- <h3 align="left">Support:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/anas.dev">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anas.dev"/>
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/defaultkyellow.png" height="50" width="210" alt="anas.dev"/>
     </a>
-</p>
-<br><br>
+</p> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/anas_elgarhy" target="_blank">
@@ -25,9 +39,9 @@
     <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
         <img align="center" src="./social_media_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40"/>
     </a>
-    <a href="https://fb.com/anas.ahmed.elgarhy" target="_blank">
+    <!-- <a href="https://fb.com/anas.ahmed.elgarhy" target="_blank">
         <img align="center" src="./social_media_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40"/>
-    </a>
+    </a> -->
     <a href="https://instagram.com/anas_elgarhy" target="_blank">
         <img align="center" src="./social_media_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40"/>
     </a>
@@ -57,9 +71,9 @@
     <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white">
   </a>
   <!-- Lua language -->
-  <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=lua" target="_blank">
+  <!-- <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=lua" target="_blank">
     <img alt="Lua language" src="https://img.shields.io/badge/-lua-000081?style=flat-square&logo=lua&logoColor=white">
-  </a>
+  </a> -->
   <!-- Go language -->
   <!-- <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=go" target="_blank">
     <img alt="Go" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white">
@@ -73,7 +87,7 @@
     <img alt="Java" src="https://img.shields.io/badge/-kotlin-D86880?style=flat-square&logo=kotlin&logoColor=white">
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" width="70%"/>
+  
 </p>
 <p align="center">⚡ Number of Visitors ⚡ <br>
 <img alr="⚡ Number of Visitors ⚡" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
@@ -83,15 +97,15 @@
     <p align="center">
      <br>
 
-  <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&layout=compact&theme=tokyonight" width="70%"/>
-  <br>
+  <!-- <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&layout=compact&theme=tokyonight" width="70%"/>
+  <br> -->
   <img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight&hide=other" width="70%">
   <br>
      <a href="https://github.com/Anas-Elgarhy?tab=followers" target="_blank">
         <img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
      </a>
      <a href="https://github.com/Anas-Elgarhy" target="_blank">
-        <img alt="Anas-Elgarhy" src="https://badges.pufler.dev/visits/Anas-Elgarhy/Anas-Elgarhy"/>
+        <img alt="Anas-Elgarhy visits" src="https://badges.pufler.dev/visits/Anas-Elgarhy/Anas-Elgarhy"/>
      </a>
      <a href="https://github.com/Anas-Elgarhy/Anas-Elgarhy" target="_blank">
         <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square"/>
