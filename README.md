@@ -93,21 +93,20 @@
    <summary> <samp>&#9776; See more details</samp></summary>
      <br>
 
-<!-- Badges -->
   <!-- <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&layout=compact&theme=tokyonight" width="70%"/>
   <br> -->
   <img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight&hide=other" width="70%">
   <br>
+  <!-- Badges -->
      <a href="https://github.com/Anas-Elgarhy?tab=followers" target="_blank">
-        <img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
+        <img alt="See the followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
      </a>
      <a href="https://github.com/Anas-Elgarhy" target="_blank">
-        <img alt="Anas-Elgarhy visits" src="https://badges.pufler.dev/visits/Anas-Elgarhy/Anas-Elgarhy"/>
+        <img alt="Number of visits" src="https://badges.pufler.dev/visits/Anas-Elgarhy/Anas-Elgarhy"/>
      </a>
      <a href="https://github.com/Anas-Elgarhy/Anas-Elgarhy" target="_blank">
-        <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square"/>
+        <img alt="Last time update this file" src="https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square"/>
      </a>
-  
   <!-- Wakatime badge -->
   <a href="https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20">
     <img alt="Total time of coding" src="https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg"/>
