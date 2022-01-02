@@ -19,19 +19,21 @@
 <!-- -->
 <p  align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
 
+<!-- Support link -->
 <!-- <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/anas.dev">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/defaultkyellow.png" height="50" width="210" alt="anas.dev"/>
   </a>
 </p> -->
+<!-- Social media links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/anas_elgarhy" target="_blank">
     <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="anas_elgarhy" height="30" width="40"/>
   </a>
   <a href="https://twitter.com/anas_elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40" />
+    <img align="center" src="./social_media_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40"/>
   </a>
   <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
     <img align="center" src="./social_media_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40"/>
@@ -47,10 +49,11 @@
 ---
 
 <p align="center">
-  <!-- All repositories -->
+  <!-- All repositories badge -->
   <a href="https://github.com/Anas-Elgarhy?tab=repositories">
     <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
 </a>
+  <!------------------- Languages badges ------------------->
   <!-- Python -->
   <!-- <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=python">
     <img alt="Python lang" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white">
@@ -88,6 +91,7 @@
 <p align="center">Vistors counter ↖ <br>
   <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
+<!-- More details -->
 <details align="center">
   <summary>
     <samp>&#9776; See more details</samp>
