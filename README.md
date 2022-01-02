@@ -89,7 +89,7 @@
   <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
 <details align="center">
-   <summary>
+  <summary>
     <samp>&#9776; See more details</samp>
   </summary>
   <br>
