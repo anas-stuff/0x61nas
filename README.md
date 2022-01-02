@@ -90,7 +90,7 @@
 </p>
 <details align="center">
    <summary>
-      <samp>&#9776; See more details</samp>
+    <samp>&#9776; See more details</samp>
   </summary>
   <br>
 
