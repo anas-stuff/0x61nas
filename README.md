@@ -84,7 +84,6 @@
     <img alt="Java" src="https://img.shields.io/badge/-kotlin-D86880?style=flat-square&logo=kotlin&logoColor=white">
   </a>
   <br>
-  
 </p>
 <p align="center">Vistors counter ↖ <br>
   <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
