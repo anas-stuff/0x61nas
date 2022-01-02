@@ -12,7 +12,7 @@
 <br>
 <!-- contribution snake -->
 <p align="center">
-<img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br>
@@ -86,11 +86,13 @@
   <br>
   
 </p>
-<p align="center">⚡ Number of Visitors ⚡ <br>
-<img alr="⚡ Number of Visitors ⚡" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
+<p align="center">Vistors counter ↖ <br>
+    <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
 <details align="center">
-   <summary> <samp>&#9776; See more details</samp></summary>
+   <summary>
+      <samp>&#9776; See more details</samp>
+  </summary>
      <br>
 
   <!-- <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&layout=compact&theme=tokyonight" width="70%"/>
