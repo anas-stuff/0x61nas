@@ -1,9 +1,9 @@
-<h2>
+<h1>
 
-```Swift
-print("Hi there!")
+```C++
+cout << "Hi there!" << endl;
 ```
-</h2>
+</h1>
 <!-- START -->
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
