@@ -7,7 +7,7 @@
 - I'm very very very love programming 🖤 
 - And I'm love cats very much too 😍 
 - I like listening to music too ❤ 
-- I am looking for help with learning machine learning 🤔 
+- I am looking for help with learning machine learning 🤔
 
 <br>
 <!-- contribution snake -->
@@ -18,6 +18,9 @@
 <br>
 <!-- -->
 <p  align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
+
+<!-- My life code -->
+<!-- codeHear -->
 
 <!-- Support link -->
 <!-- <h3 align="left">Support:</h3>
