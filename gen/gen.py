@@ -11,7 +11,7 @@ start = "<!-- START -->"
 reCode = "<h2>\n\n```LANG\nSTR\n```\n</h2>\n" + start
 
 # Open list.ymal file and generate code
-with open(r"./lang/list.yaml") as f:
+with open("lang/list.yaml", "r") as f:
     yamlFile = yaml.load(f, Loader=yaml.FullLoader)
 
     list = yamlFile.get("lang")
