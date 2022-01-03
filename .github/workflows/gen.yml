@@ -29,7 +29,9 @@ jobs:
           pip install -r gen/requirements.txt
 
       - name: Generate Hello
-        run: python gen/gen.py
+        run: |
+          cd gen
+          python gen.py
 
       - name: Commit README
         run: |
