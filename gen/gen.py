@@ -1,6 +1,7 @@
 import yaml
-import random
-import os
+from random import randint
+from os import remove
+from emoji import emojize
 
 # Constants
 codeFilePath = "./lang/codes/MyLifeCode"
@@ -34,7 +35,7 @@ with open("lang/list.yaml", "r") as f:
 
     # Get random language
     while True:
-        index = int(random.randint(0, len(list) - 1))
+        index = int(randint(0, len(list) - 1))
         lang = list[index]
         if lang.get('name') != currentLang:
             break
@@ -52,8 +53,7 @@ with open("lang/list.yaml", "r") as f:
 
     # Get code
     code = lang.get('print')
-    code = code.replace("STR",
-                        "Hi there!")
+    code = emojize(code.replace("STR", "Hi there!"))
 
     reCode = reCode.replace("LANG", lang.get('name')).replace("STR", code)
 
@@ -73,7 +73,7 @@ with open("lang/list.yaml", "r") as f:
         readmeText = reCode + readmeText
 
         # delete old readme file
-        os.remove(readmeFilePath)
+        remove(readmeFilePath)
 
         # Write new readme file
         with open(readmeFilePath, "w", encoding="utf-8") as rf:
