@@ -4,7 +4,7 @@ import os
 
 # Constants
 codeFilePath = "./lang/codes/MyLifeCode"
-readmeFilePath = "./README.md"  # To test
+readmeFilePath = "../README.md"  # To test
 lineCode = "<!-- codeHear -->"
 start = "<!-- START -->"
 
