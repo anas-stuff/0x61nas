@@ -56,7 +56,7 @@ lang:
     print: console.log("STR")
   - name: EmojiCode
     extension: emoji
-    print: 😀🔤STR🔤
+    print: ":grinning_face::input_latin_letters:STR:input_latin_letters:"
   - name: Lua
     extension: lua
     print: io.write("STR")
