@@ -1,28 +1,62 @@
 # All programming languages
-languages: 
-  - Python: py
-  - Java: java
-  - C: c
-  - C++: cpp
-  - C#: csharp
-  - JavaScript: js
-  - PHP: php
-  - Ruby: ruby
-  - Go: go
-  - Swift: swift
-  - Kotlin: kotlin
-  - Scala: scala
-  - R: r
-  - Rust: rust
-  - Objective-C: objc
-  - TypeScript: ts
-  - Elixir: elixir
-  - Haskell: haskell
-  - Clojure: clojure
-  - F#: fsharp
-  - OCaml: ocaml
-  - Scala.js: scala-js
-  - CoffeeScript: coffee
-  - ElixirScript: elixir-script
-  - EmojiCode: emoji
-  - Lua: lua
+lang:
+  - name: Python
+    extension: py
+    print: print("STR")
+  - name: Java
+    extension: java
+    print: System.out.println("STR");
+  - name: C
+    extension: c
+    print: printf("STR");
+  - name: C++
+    extension: cpp
+    print: cout << "STR" << endl;
+  - name: C#
+    extension: cs
+    print: Console.WriteLine("STR");
+  - name: JavaScript
+    extension: js
+    print: console.log("STR");
+  - name: PHP
+    extension: php
+    print: echo "STR";
+  - name: Ruby
+    extension: rb
+    print: puts "STR";
+  - name: Go
+    extension: go
+    print: fmt.Println("STR");
+  - name: Swift
+    extension: swift
+    print: print("STR")
+  - name: Kotlin
+    extension: kt
+    print: println("STR")
+  - name: Scala
+    extension: scala
+    print: println("STR")
+  - name: R
+    extension: r
+    print: print("STR")
+  - name: Rust
+    extension: rust
+    print: println!("STR")
+  - name: Objective-C
+    extension: objc
+    print: NSLog("STR")
+  - name: TypeScript
+    extension: ts
+    print: console.log("STR")
+  - name: F#
+    extension: fsharp
+    print: printfn("STR")
+  - name: CoffeeScript
+    extension: coffee
+    print: console.log("STR")
+  - name: EmojiCode
+    extension: emoji
+    print: 😀🔤STR🔤
+  - name: Lua
+    extension: lua
+    print: io.write("STR")
