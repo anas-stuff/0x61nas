@@ -8,7 +8,7 @@ readmeFilePath = "../README.md"  # To test
 lineCode = "<!-- codeHear -->"
 start = "<!-- START -->"
 
-reCode = "<h2>\n\n```LANG\nSTR\n```\n</h2>\n" + start
+reCode = "<h1>\n\n```LANG\nSTR\n```\n</h1>\n" + start
 
 # Open list.ymal file and generate code
 with open("lang/list.yaml", "r") as f:
