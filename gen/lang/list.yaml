@@ -8,7 +8,7 @@ lang:
     print: System.out.println("STR");
   - name: C
     extension: c
-    print: printf("STR");
+    print: printf("STR\n");
   - name: C++
     extension: cpp
     print: cout << "STR" << endl;
@@ -20,10 +20,10 @@ lang:
     print: console.log("STR");
   - name: PHP
     extension: php
-    print: echo "STR";
+    print: echo "STR\n";
   - name: Ruby
     extension: rb
-    print: puts "STR";
+    print: puts "STR\n";
   - name: Go
     extension: go
     print: fmt.Println("STR");
@@ -59,4 +59,4 @@ lang:
     print: ":grinning_face::input_latin_letters:STR:input_latin_letters::red_exclamation_mark:"
   - name: Lua
     extension: lua
-    print: io.write("STR")
+    print: io.write("STR\n")
