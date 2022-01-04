@@ -1,7 +1,7 @@
 <h1>
 
-```Lua
-io.write("Hi there!")
+```Objective-C
+NSLog("Hi there!")
 ```
 </h1>
 <!-- START -->
