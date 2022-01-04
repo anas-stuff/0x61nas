@@ -1,11 +1,11 @@
-name: Generate REAME.md File
+name: Generate Hello code in Readme File
 
 on:
   push:
     branches:
       - master
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '01 12 * * *'
 
 jobs:
   build:
