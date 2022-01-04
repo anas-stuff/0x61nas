@@ -1,7 +1,7 @@
 <h1>
 
-```Go
-fmt.Println("Hi there!");
+```TypeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
