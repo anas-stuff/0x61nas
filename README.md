@@ -1,7 +1,7 @@
 <h1>
 
-```Rust
-println!("Hi there!")
+```CoffeeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
