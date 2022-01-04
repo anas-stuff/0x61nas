@@ -1,7 +1,7 @@
 <h1>
 
-```R
-print("Hi there!")
+```Lua
+io.write("Hi there!")
 ```
 </h1>
 <!-- START -->
