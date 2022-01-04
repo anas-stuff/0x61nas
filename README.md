@@ -1,7 +1,7 @@
 <h1>
 
-```Objective-C
-NSLog("Hi there!")
+```R
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
