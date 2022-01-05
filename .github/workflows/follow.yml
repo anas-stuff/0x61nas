@@ -14,7 +14,7 @@ jobs:
         id: followerChange
         uses: Sorosliu1029/follower-change@v2
         with:
-          myToken: ${{ secrets.GITHUB_TOKEN }}
+          myToken: ${{ secrets.MY_TOKEN }}
           notifyUnFollowEvent: true
       - name: email me
         uses: dawidd6/action-send-mail@v3
