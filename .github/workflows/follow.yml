@@ -1,8 +1,8 @@
 name: follower notifier
 on:
-  # notify me daily
-  schedule:
-    - cron: '0 3 * * *' # in UTC time
+#   # notify me daily
+#   schedule:
+#     - cron: '0 3 * * *' # in UTC time
 jobs:
   main:
     runs-on: ubuntu-latest
