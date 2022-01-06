@@ -1,7 +1,7 @@
 <h1>
 
-```Go
-fmt.Println("Hi there!");
+```Scala
+println("Hi there!")
 ```
 </h1>
 <!-- START -->
