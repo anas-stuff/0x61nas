@@ -1,7 +1,7 @@
 <h1>
 
-```PHP
-echo "Hi there!\n";
+```CoffeeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
