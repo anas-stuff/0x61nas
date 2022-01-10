@@ -1,7 +1,7 @@
 <h1>
 
-```C#
-Console.WriteLine("Hi there!");
+```Swift
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
