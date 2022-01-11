@@ -1,7 +1,7 @@
 <h1>
 
-```C
-printf("Hi there!\n");
+```TypeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
