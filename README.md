@@ -1,7 +1,7 @@
 <h1>
 
-```Ruby
-puts "Hi there!\n";
+```C
+printf("Hi there!\n");
 ```
 </h1>
 <!-- START -->
