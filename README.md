@@ -1,7 +1,7 @@
 <h1>
 
-```EmojiCode
-😀🔤Hi there!🔤❗
+```Go
+fmt.Println("Hi there!");
 ```
 </h1>
 <!-- START -->
