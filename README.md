@@ -1,7 +1,7 @@
 <h1>
 
-```Swift
-print("Hi there!")
+```C++
+cout << "Hi there!" << endl;
 ```
 </h1>
 <!-- START -->
