@@ -1,7 +1,7 @@
 <h1>
 
-```C++
-cout << "Hi there!" << endl;
+```Java
+System.out.println("Hi there!");
 ```
 </h1>
 <!-- START -->
