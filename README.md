@@ -1,7 +1,7 @@
 <h1>
 
-```CoffeeScript
-console.log("Hi there!")
+```Ruby
+puts "Hi there!\n";
 ```
 </h1>
 <!-- START -->
