@@ -1,7 +1,7 @@
 <h1>
 
-```C
-printf("Hi there!\n");
+```CoffeeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
