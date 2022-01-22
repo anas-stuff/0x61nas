@@ -1,7 +1,7 @@
 <h1>
 
-```CoffeeScript
-console.log("Hi there!")
+```C++
+cout << "Hi there!" << endl;
 ```
 </h1>
 <!-- START -->
