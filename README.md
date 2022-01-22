@@ -1,7 +1,7 @@
 <h1>
 
-```F#
-printfn("Hi there!")
+```CoffeeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
