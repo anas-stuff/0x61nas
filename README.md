@@ -1,7 +1,7 @@
 <h1>
 
-```C
-printf("Hi there!\n");
+```Python
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
