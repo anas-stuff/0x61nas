@@ -1,7 +1,7 @@
 <h1>
 
-```Java
-System.out.println("Hi there!");
+```TypeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
