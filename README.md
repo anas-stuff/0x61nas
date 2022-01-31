@@ -1,7 +1,7 @@
 <h1>
 
-```F#
-printfn("Hi there!")
+```Ruby
+puts "Hi there!\n";
 ```
 </h1>
 <!-- START -->
