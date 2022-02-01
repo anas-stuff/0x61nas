@@ -1,7 +1,7 @@
 <h1>
 
-```TypeScript
-console.log("Hi there!")
+```C#
+Console.WriteLine("Hi there!");
 ```
 </h1>
 <!-- START -->
