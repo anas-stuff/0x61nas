@@ -1,7 +1,7 @@
 <h1>
 
-```C#
-Console.WriteLine("Hi there!");
+```Ruby
+puts "Hi there!\n";
 ```
 </h1>
 <!-- START -->
