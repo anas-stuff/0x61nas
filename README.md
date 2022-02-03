@@ -1,7 +1,7 @@
 <h1>
 
-```Scala
-println("Hi there!")
+```Rust
+println!("Hi there!")
 ```
 </h1>
 <!-- START -->
