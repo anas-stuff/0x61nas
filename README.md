@@ -1,6 +1,6 @@
 <h1>
 
-```CoffeeScript
+```TypeScript
 console.log("Hi there!")
 ```
 </h1>
