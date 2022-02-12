@@ -1,7 +1,7 @@
 <h1>
 
-```Go
-fmt.Println("Hi there!");
+```C
+printf("Hi there!\n");
 ```
 </h1>
 <!-- START -->
