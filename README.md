@@ -1,7 +1,7 @@
 <h1>
 
-```Swift
-print("Hi there!")
+```TypeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
