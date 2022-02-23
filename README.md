@@ -1,7 +1,7 @@
 <h1>
 
-```C
-printf("Hi there!\n");
+```PHP
+echo "Hi there!\n";
 ```
 </h1>
 <!-- START -->
