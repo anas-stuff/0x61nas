@@ -1,7 +1,7 @@
 <h1>
 
-```Rust
-println!("Hi there!")
+```JavaScript
+console.log("Hi there!");
 ```
 </h1>
 <!-- START -->
