@@ -1,7 +1,7 @@
 <h1>
 
-```JavaScript
-console.log("Hi there!");
+```R
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
