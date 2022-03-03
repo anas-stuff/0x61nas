@@ -1,7 +1,7 @@
 <h1>
 
-```C++
-cout << "Hi there!" << endl;
+```Rust
+println!("Hi there!")
 ```
 </h1>
 <!-- START -->
