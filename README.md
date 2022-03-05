@@ -1,7 +1,7 @@
 <h1>
 
-```R
-print("Hi there!")
+```Scala
+println("Hi there!")
 ```
 </h1>
 <!-- START -->
