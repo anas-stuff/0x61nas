@@ -1,7 +1,7 @@
 <h1>
 
-```C++
-cout << "Hi there!" << endl;
+```Ruby
+puts "Hi there!\n";
 ```
 </h1>
 <!-- START -->
