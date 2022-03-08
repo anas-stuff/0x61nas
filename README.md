@@ -1,7 +1,7 @@
 <h1>
 
-```PHP
-echo "Hi there!\n";
+```Java
+System.out.println("Hi there!");
 ```
 </h1>
 <!-- START -->
