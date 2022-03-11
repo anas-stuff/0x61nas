@@ -1,7 +1,7 @@
 <h1>
 
-```Lua
-io.write("Hi there!\n")
+```Python
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
