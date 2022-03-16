@@ -1,7 +1,7 @@
 <h1>
 
-```Lua
-io.write("Hi there!\n")
+```PHP
+echo "Hi there!\n";
 ```
 </h1>
 <!-- START -->
