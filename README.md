@@ -1,7 +1,7 @@
 <h1>
 
-```R
-print("Hi there!")
+```Ruby
+puts "Hi there!\n";
 ```
 </h1>
 <!-- START -->
