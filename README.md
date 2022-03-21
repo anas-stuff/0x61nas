@@ -1,7 +1,7 @@
 <h1>
 
-```EmojiCode
-😀🔤Hi there!🔤❗
+```F#
+printfn("Hi there!")
 ```
 </h1>
 <!-- START -->
