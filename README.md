@@ -1,7 +1,7 @@
 <h1>
 
-```Kotlin
-println("Hi there!")
+```Java
+System.out.println("Hi there!");
 ```
 </h1>
 <!-- START -->
