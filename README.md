@@ -1,7 +1,7 @@
 <h1>
 
-```Scala
-println("Hi there!")
+```EmojiCode
+😀🔤Hi there!🔤❗
 ```
 </h1>
 <!-- START -->
