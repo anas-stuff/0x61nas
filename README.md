@@ -1,7 +1,7 @@
 <h1>
 
-```C++
-cout << "Hi there!" << endl;
+```Python
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
