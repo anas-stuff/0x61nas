@@ -1,7 +1,7 @@
 <h1>
 
-```PHP
-echo "Hi there!\n";
+```R
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
