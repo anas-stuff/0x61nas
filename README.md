@@ -1,6 +1,6 @@
 <h1>
 
-```R
+```Python
 print("Hi there!")
 ```
 </h1>
