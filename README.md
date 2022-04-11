@@ -1,7 +1,7 @@
 <h1>
 
-```Lua
-io.write("Hi there!\n")
+```JavaScript
+console.log("Hi there!");
 ```
 </h1>
 <!-- START -->
