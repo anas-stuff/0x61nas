@@ -1,7 +1,7 @@
 <h1>
 
-```Rust
-println!("Hi there!")
+```Java
+System.out.println("Hi there!");
 ```
 </h1>
 <!-- START -->
