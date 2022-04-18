@@ -1,7 +1,7 @@
 <h1>
 
-```Ruby
-puts "Hi there!\n";
+```JavaScript
+console.log("Hi there!");
 ```
 </h1>
 <!-- START -->
