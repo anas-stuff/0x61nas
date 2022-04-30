@@ -1,7 +1,7 @@
 <h1>
 
-```EmojiCode
-😀🔤Hi there!🔤❗
+```Ruby
+puts "Hi there!\n";
 ```
 </h1>
 <!-- START -->
