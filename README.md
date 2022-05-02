@@ -1,7 +1,7 @@
 <h1>
 
-```Kotlin
-println("Hi there!")
+```Swift
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
