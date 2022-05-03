@@ -1,7 +1,7 @@
 <h1>
 
-```Swift
-print("Hi there!")
+```Go
+fmt.Println("Hi there!");
 ```
 </h1>
 <!-- START -->
