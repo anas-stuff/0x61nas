@@ -1,7 +1,7 @@
 <h1>
 
-```Go
-fmt.Println("Hi there!");
+```C++
+cout << "Hi there!" << endl;
 ```
 </h1>
 <!-- START -->
