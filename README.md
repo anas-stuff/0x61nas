@@ -1,7 +1,7 @@
 <h1>
 
-```Kotlin
-println("Hi there!")
+```Objective-C
+NSLog("Hi there!")
 ```
 </h1>
 <!-- START -->
