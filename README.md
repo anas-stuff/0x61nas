@@ -1,7 +1,7 @@
 <h1>
 
-```PHP
-echo "Hi there!\n";
+```C++
+cout << "Hi there!" << endl;
 ```
 </h1>
 <!-- START -->
