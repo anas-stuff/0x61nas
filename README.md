@@ -1,7 +1,7 @@
 <h1>
 
-```JavaScript
-console.log("Hi there!");
+```C#
+Console.WriteLine("Hi there!");
 ```
 </h1>
 <!-- START -->
