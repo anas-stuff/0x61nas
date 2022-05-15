@@ -1,7 +1,7 @@
 <h1>
 
-```TypeScript
-console.log("Hi there!")
+```F#
+printfn("Hi there!")
 ```
 </h1>
 <!-- START -->
