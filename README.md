@@ -1,7 +1,7 @@
 <h1>
 
-```EmojiCode
-😀🔤Hi there!🔤❗
+```C
+printf("Hi there!\n");
 ```
 </h1>
 <!-- START -->
