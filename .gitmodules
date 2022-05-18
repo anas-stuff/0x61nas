@@ -1,0 +1,3 @@
+[submodule "ColoredBadges"]
+	path = ColoredBadges
+	url = https://github.com/MikeCodesDotNET/ColoredBadges.git
