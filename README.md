@@ -49,75 +49,7 @@ fmt.Println("Hi there!");
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-011111?style=for-the-badge&logo=intellij&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-D0021B?style=for-the-badge&logo=rust&logoColor=white)
 
-<!-- Support link -->
-<!-- <h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/anas.dev">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/defaultkyellow.png" height="50" width="210" alt="anas.dev"/>
-  </a>
-</p> -->
-<!-- Social media links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/anas_elgarhy" target="_blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="anas_elgarhy" height="30" width="40"/>
-  </a>
-  <a href="https://twitter.com/anas_elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40"/>
-  </a>
-  <!-- <a href="https://fb.com/anas.ahmed.elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40"/>
-  </a> -->
-  <a href="https://instagram.com/anas_elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40"/>
-  </a>
-</p>
 
----
-
-<p align="center">
-  <!-- All repositories badge -->
-  <a href="https://github.com/Anas-Elgarhy?tab=repositories">
-    <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-</a>
-  <!------------------- Languages badges ------------------->
-  <!-- Python -->
-  <!-- <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=python">
-    <img alt="Python lang" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white">
-  </a> -->
-<!-- Java script -->
-  <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=javascript">
-    <img alt="Javascript lang" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white">
-  </a>
-  <!-- C language -->
-  <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=c">
-    <img alt="C lang" src="https://img.shields.io/badge/-C-649AD2?style=flat-square&logo=c&logoColor=white">
-  </a>
-  <!-- CPP language -->
-  <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=c%2B%2B">
-    <img alt="C++ lang" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white">
-  </a>
-  <!-- Lua language -->
-  <!-- <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=lua">
-    <img alt="Lua lang" src="https://img.shields.io/badge/-lua-000081?style=flat-square&logo=lua&logoColor=white">
-  </a> -->
-  <!-- Go language -->
-  <!-- <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=go">
-    <img alt="Go lang" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white">
-  </a> -->
-  <!-- Java -->
-  <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=java">
-    <img alt="Java lang" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white">
-  </a>
-  <!-- Kotlin -->
-  <a href="https://github.com/Anas-Elgarhy?tab=repositories&language=kotlin">
-    <img alt="Kotlin lang" src="https://img.shields.io/badge/-kotlin-D86880?style=flat-square&logo=kotlin&logoColor=white">
-  </a>
-  <br>
-</p>
 <p align="center">Vistors counter ↖ <br>
   <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
@@ -153,3 +85,23 @@ fmt.Println("Hi there!");
 ![RAM](https://img.shields.io/badge/RAM-16GB-121006?style=for-the-badge&logo=RAM&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 </details>
+
+<!-- Social media links -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/anas_elgarhy" target="_blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="anas_elgarhy" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/anas_elgarhy" target="_blank">
+    <img align="center" src="./social_media_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
+    <img align="center" src="./social_media_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40"/>
+  </a>
+  <!-- <a href="https://fb.com/anas.ahmed.elgarhy" target="_blank">
+    <img align="center" src="./social_media_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40"/>
+  </a> -->
+  <a href="https://instagram.com/anas_elgarhy" target="_blank">
+    <img align="center" src="./social_media_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40"/>
+  </a>
+</p>
