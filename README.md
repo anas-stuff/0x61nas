@@ -46,6 +46,7 @@ fmt.Println("Hi there!");
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "My main version control system")
 ![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=white)
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-011111?style=for-the-badge&logo=intellij&logoColor=white)
 
 <!-- Support link -->
 <!-- <h3 align="left">Support:</h3>
