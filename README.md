@@ -29,6 +29,7 @@ fmt.Println("Hi there!");
 <!-- -->
 <p align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
 
+### My Skills and Interests:
 ![my distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
