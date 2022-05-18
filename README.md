@@ -89,19 +89,16 @@ fmt.Println("Hi there!");
 <!-- Social media links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/anas_elgarhy" target="_blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="anas_elgarhy" height="30" width="40"/>
+  <a href="mailto:anas.elgarhy.dev@gmail.com" target="_blank">
+    <img align="center" src="./ColoredBadges/svg/social/email_me.svg" alt="my email: anas.elgarhy.dev@gmail.com"/>
   </a>
   <a href="https://twitter.com/anas_elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/twitter_l.svg" alt="anas_elgarhy" height="30" width="40"/>
+    <img align="center" src="./ColoredBadges/svg/social/twitter.svg" alt="anas_elgarhy"/>
   </a>
   <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/linkedin.svg" alt="anas-elgarhy" height="30" width="40"/>
+    <img align="center" src="./ColoredBadges/svg/social/linkedin.svg" alt="anas-elgarhy"/>
   </a>
-  <!-- <a href="https://fb.com/anas.ahmed.elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/facebook%20_l.svg" alt="anas.ahmed.elgarhy" height="30" width="40"/>
-  </a> -->
   <a href="https://instagram.com/anas_elgarhy" target="_blank">
-    <img align="center" src="./social_media_logos/instagram_l.svg" alt="anas_elgarhy" height="30" width="40"/>
+    <img align="center" src="./ColoredBadges/svg/social/instagram.svg" alt="anas_elgarhy"/>
   </a>
 </p>
