@@ -47,6 +47,7 @@ fmt.Println("Hi there!");
 ![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=white)
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-011111?style=for-the-badge&logo=intellij&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-D0021B?style=for-the-badge&logo=rust&logoColor=white)
 
 <!-- Support link -->
 <!-- <h3 align="left">Support:</h3>
