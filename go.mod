@@ -10,7 +10,7 @@ require (
 	github.com/golang/go v0.0.0-20220423142625-e6dfdbd11d5d // indirect
 	github.com/vlang/v v0.1.13 // indirect
 	github.com/scala/scala v2.13.8+incompatible // indirect
-	github.com/torvalds/linux v2.6.39 // indirect
+	github.com/torvalds/linux
 	github.com/openjdk/jdk v11.0.1 // indirect
 	github.com/git/git v2.22.0 // indirect
 )
