@@ -8,6 +8,8 @@ github.com/alacritty/alacritty v0.10.1 h1:7aHtCnO1P0VNk6Aj3M4On5kwknXbYMgLJedvVi
 github.com/alacritty/alacritty v0.10.1/go.mod h1:TksKNqvr9RAKllNJlOP8wPPFGiW6RR9DCIEoJvDEedI=
 github.com/cmus/cmus v2.9.1+incompatible h1:rzsbsLgC5ZtYr1f4p4GAQDRQnCrsTz3edvWzN2f5JeY=
 github.com/cmus/cmus v2.9.1+incompatible/go.mod h1:jqdonbIO32hdCCwF4/zDAY9j97FBdzCbb5fweSalSwY=
+github.com/drkhsh/slstatus v0.0.0-20201130203214-84a2f117a32f h1:HQUvOCQdBPxllqenPB20E2q26pyZFpAx4gc9DxFNWNY=
+github.com/drkhsh/slstatus v0.0.0-20201130203214-84a2f117a32f/go.mod h1:9R4AmRPLw2dl6z1eoCBBdMyXqLK5j0w6BTu5fmVWq9w=
 github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699 h1:UkOvkg9MwT+7vUlkCOtYqK+b6oIQWBqZVtr/3O2FBoU=
 github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699/go.mod h1:mAEmS/sfm1QVRhebkH2Y6qHQhujyvHv2rZs6FncsdFc=
 github.com/git/git v2.36.1+incompatible h1:b4mPslTZt1Bn40sbjECapj0PKAZtBp8a1AYeHFx0Iz8=

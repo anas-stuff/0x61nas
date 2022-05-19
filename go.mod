@@ -8,6 +8,7 @@ require (
 	github.com/Anas-Elgarhy/slstatus v0.0.0-20220501211816-a3fb8788206d // indirect
 	github.com/alacritty/alacritty v0.10.1 // indirect
 	github.com/cmus/cmus v2.9.1+incompatible // indirect
+	github.com/drkhsh/slstatus v0.0.0-20201130203214-84a2f117a32f // indirect
 	github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699 // indirect
 	github.com/git/git v2.36.1+incompatible // indirect
 	github.com/golang/go v0.0.0-20220519071347-128279e5034c // indirect
