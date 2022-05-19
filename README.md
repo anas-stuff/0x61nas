@@ -50,8 +50,8 @@ fmt.Println("Hi there!");
 ![Rust](https://img.shields.io/badge/Rust-D0021B?style=for-the-badge&logo=rust&logoColor=white)
 
 
-<p align="center">Vistors counter ↖ <br>
-  <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
+<p align="center">Visitors counter ↖ <br>
+  <img alr="Visitors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
 <!-- More details -->
 <details align="center">
