@@ -52,7 +52,7 @@ fmt.Println("Hi there!");
 
 
 <p align="center">Visitors counter ↖ <br>
-  <img alr="Visitors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
+  <img alt="Visitors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
 <!-- More details -->
 <details align="center">
@@ -60,23 +60,12 @@ fmt.Println("Hi there!");
     <samp>&#9776; See more details</samp>
   </summary>
   <br>
-
   <img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight&hide=other" width="70%">
   <br>
-  <!-- Badges -->
-  <a href="https://github.com/Anas-Elgarhy?tab=followers" target="_blank">
-    <img alt="See the followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
-  </a>
-  <a href="https://github.com/Anas-Elgarhy" target="_blank">
-    <img alt="Number of visits" src="https://badges.pufler.dev/visits/Anas-Elgarhy/Anas-Elgarhy"/>
-  </a>
-  <a href="https://github.com/Anas-Elgarhy/Anas-Elgarhy" target="_blank">
-    <img alt="Last time update this file" src="https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square"/>
-  </a>
-  <!-- Wakatime badge -->
-  <a href="https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20">
-    <img alt="Total time of coding" src="https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg"/>
-  </a>
+
+![Number of visits](https://badges.pufler.dev/visits/Anas-Elgarhy/Anas-Elgarhy "Number of visits")
+[![Last time update this file](https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Anas-Elgarhy/Anas-Elgarhy)
+[![Total time of coding](https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg "Total time of coding")](https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20)
 
 ### 💻 Workspace Specs
 ![General](https://img.shields.io/badge/Arch-Lenovo_legion_y540-0078D6?style=for-the-badge&logo=Arch-linux&logoColor=white)
