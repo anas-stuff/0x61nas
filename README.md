@@ -21,12 +21,13 @@ fmt.Println("Hi there!");
 </p>
 
 <br>
-<!-- -->
+
+
 <p  align="center">
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Anas+Elgarhy.;I+started+my+programming+career+13+years+ago.;I+have+experience+in+many+programming+languages.++;Like+C%2CC%2B%2B%2CJava%2CPython%2CKotlin%2CJavaScript++;"/>
 </p>
 
-<!-- -->
+<!-- My quote -->
 <p align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
 
 ### My Skills and Interests:
@@ -60,8 +61,6 @@ fmt.Println("Hi there!");
   </summary>
   <br>
 
-  <!-- <img alt="Anas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Elgarhy&layout=compact&theme=tokyonight" width="70%"/>
-  <br> -->
   <img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight&hide=other" width="70%">
   <br>
   <!-- Badges -->
