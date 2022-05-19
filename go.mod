@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/Anas-Elgarhy/dwm v0.0.0-20220519083658-f84ab69cee14 // indirect
+	github.com/cmus/cmus v2.9.1+incompatible // indirect
 	github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699 // indirect
 	github.com/git/git v2.36.1+incompatible // indirect
 	github.com/golang/go v0.0.0-20220519071347-128279e5034c // indirect
