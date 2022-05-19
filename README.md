@@ -46,6 +46,20 @@ fmt.Println("Hi there!");
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-011111?style=for-the-badge&logo=intellij&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-D0021B?style=for-the-badge&logo=rust&logoColor=white)
 
+### My life in a code
+```java
+while(me.isAlive()){
+    me.startCoding();
+    if (me.getCode().haveProplem()) {
+        Google.serch("How to do fix " + me.getCode().getProplem());
+        me.openStackOverFlow();
+        me.copyAnswer();
+        me.getCode().paste();
+        me.getCode().compile();
+        me.getCode().run();
+    }
+}
+```
 
 <p align="center">Visitors counter ↖ <br>
   <img alt="Visitors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
@@ -69,20 +83,6 @@ fmt.Println("Hi there!");
 ![RAM](https://img.shields.io/badge/RAM-16GB-121006?style=for-the-badge&logo=RAM&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### My life in a code
-```java
-while(me.isAlive()){
-    me.coding();
-    if (me.getCode().haveProplem()) {
-        Google.serch("How to do fix " + me.getCode().getProplem());
-        me.openStackOverFlow();
-        me.copyAnswer();
-        me.getCode().paste();
-        me.getCode().compile();
-        me.getCode().run();
-    }
-}
-```
 </details>
 
 <!-- Social media links -->

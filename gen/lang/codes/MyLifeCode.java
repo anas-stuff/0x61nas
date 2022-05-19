@@ -1,5 +1,5 @@
 while(me.isAlive()){
-    me.coding();
+    me.startCoding();
     if (me.getCode().haveProplem()) {
         Google.serch("How to do fix " + me.getCode().getProplem());
         me.openStackOverFlow();
