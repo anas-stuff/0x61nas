@@ -68,6 +68,21 @@ fmt.Println("Hi there!");
 ![CPU](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-16GB-121006?style=for-the-badge&logo=RAM&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### My life in a code
+```java
+while(me.isAlive()){
+    me.coding();
+    if (me.getCode().haveProplem()) {
+        Google.serch("How to do fix " + me.getCode().getProplem());
+        me.openStackOverFlow();
+        me.copyAnswer();
+        me.getCode().paste();
+        me.getCode().compile();
+        me.getCode().run();
+    }
+}
+```
 </details>
 
 <!-- Social media links -->
