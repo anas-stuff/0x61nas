@@ -6,4 +6,3 @@ github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9 h1:/ivCkXhHyzNK3OH4
 github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
 github.com/torvalds/linux v0.0.0-20191020021433-19a6d18efb51 h1:tBvvRg2G6Lmc3NXFg4yr/A7WH9XzraQ87RIOjfbMREU=
 github.com/torvalds/linux v0.0.0-20191020021433-19a6d18efb51/go.mod h1:duzrrZUq49Xw1J0921AAC4OZKLLIeFwonoOvFnLAmLA=
-github.com/torvalds/linux
