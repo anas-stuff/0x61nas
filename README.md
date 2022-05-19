@@ -9,11 +9,11 @@ fmt.Println("Hi there!");
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
 - I'm currently learning IT in the EELU university 😁
-- But I learning to programming Since I was 13 years old 😄
+- But I'm learning to programming Since I was 13 years old 😄
 - I'm very very very in love with programming 🖤 
 - And I'm love cats very much too 😍 
-- I like listening to music too ❤ 
-- I am looking for help with learning machine learning 🤔
+- I'm very very very in love with linux 🐧🤍
+- I'm very very very in love with Open Source 💙💙💙
 
 <!-- contribution snake -->
 <p align="center">
