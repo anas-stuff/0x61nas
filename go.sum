@@ -2,6 +2,8 @@ github.com/Anas-Elgarhy/JCmusIntegrationWithDiscord v1.1.0 h1:V1VbPCFG/dR3QqKka2
 github.com/Anas-Elgarhy/JCmusIntegrationWithDiscord v1.1.0/go.mod h1:yEhQzE+B2HlPfRQJUV9Uv2s/C3+rUj2LBvW95u0nq8U=
 github.com/Anas-Elgarhy/dwm v0.0.0-20220519083658-f84ab69cee14 h1:Wm1ksAqps00m3TZ7y99/SHUqN497n5gTk+r2NfpB58s=
 github.com/Anas-Elgarhy/dwm v0.0.0-20220519083658-f84ab69cee14/go.mod h1:Y9egr+fknzsZh1R2/z5JD729/js4KyFhKwa0GLAvlqo=
+github.com/alacritty/alacritty v0.10.1 h1:7aHtCnO1P0VNk6Aj3M4On5kwknXbYMgLJedvVi5YL/o=
+github.com/alacritty/alacritty v0.10.1/go.mod h1:TksKNqvr9RAKllNJlOP8wPPFGiW6RR9DCIEoJvDEedI=
 github.com/cmus/cmus v2.9.1+incompatible h1:rzsbsLgC5ZtYr1f4p4GAQDRQnCrsTz3edvWzN2f5JeY=
 github.com/cmus/cmus v2.9.1+incompatible/go.mod h1:jqdonbIO32hdCCwF4/zDAY9j97FBdzCbb5fweSalSwY=
 github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699 h1:UkOvkg9MwT+7vUlkCOtYqK+b6oIQWBqZVtr/3O2FBoU=
