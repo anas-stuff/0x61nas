@@ -1,3 +1,4 @@
 github.com/git/git v2.36.1+incompatible h1:b4mPslTZt1Bn40sbjECapj0PKAZtBp8a1AYeHFx0Iz8=
 github.com/git/git v2.36.1+incompatible/go.mod h1:B17BlExMbWcymdarLexglm7DJBhBmovtSHADsTWqDJY=
-
+github.com/golang/go v0.0.0-20220519071347-128279e5034c h1:cL20pZ4fQ5rmmUS+MedMAZ3K4XrfOeLj8owK99B48Vs=
+github.com/golang/go v0.0.0-20220519071347-128279e5034c/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
