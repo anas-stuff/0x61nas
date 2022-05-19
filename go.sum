@@ -16,3 +16,5 @@ github.com/neovim/neovim v0.7.0 h1:Ll6YpnzdBIL4dxA0PpFeoIIG6UJoj2OlsuyZMnpcuac=
 github.com/neovim/neovim v0.7.0/go.mod h1:qD1yPIwRSzTx5Jevki6FB0NygCAkBcJAf3EpWngASIk=
 github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9 h1:/ivCkXhHyzNK3OH4kTSU2cw5QLRtFtn5phms9zFsKn4=
 github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
+github.com/tmux/tmux v0.0.0-20220514191646-ead75c2d512c h1:epjO/WMJKVID3DFQlqkDexy5PyBcmfFlg5u+yvU4xlk=
+github.com/tmux/tmux v0.0.0-20220514191646-ead75c2d512c/go.mod h1:0cK4jXyQ4RgQAmXZbf24SFISBAT5uZwKPuLUy3mrUPQ=
