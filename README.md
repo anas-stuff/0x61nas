@@ -90,15 +90,15 @@ fmt.Println("Hi there!");
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:anas.elgarhy.dev@gmail.com" target="_blank">
-    <img align="center" src="./ColoredBadges/svg/social/email_me.svg" alt="my email: anas.elgarhy.dev@gmail.com"/>
+    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="my email: anas.elgarhy.dev@gmail.com"/>
   </a>
   <a href="https://twitter.com/anas_elgarhy" target="_blank">
-    <img align="center" src="./ColoredBadges/svg/social/twitter.svg" alt="anas_elgarhy"/>
+    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="anas_elgarhy"/>
   </a>
   <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
-    <img align="center" src="./ColoredBadges/svg/social/linkedin.svg" alt="anas-elgarhy"/>
+    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="anas-elgarhy"/>
   </a>
   <a href="https://instagram.com/anas_elgarhy" target="_blank">
-    <img align="center" src="./ColoredBadges/svg/social/instagram.svg" alt="anas_elgarhy"/>
+    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="anas_elgarhy"/>
   </a>
 </p>
