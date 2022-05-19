@@ -1,8 +1,8 @@
+github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699 h1:UkOvkg9MwT+7vUlkCOtYqK+b6oIQWBqZVtr/3O2FBoU=
+github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699/go.mod h1:mAEmS/sfm1QVRhebkH2Y6qHQhujyvHv2rZs6FncsdFc=
 github.com/git/git v2.36.1+incompatible h1:b4mPslTZt1Bn40sbjECapj0PKAZtBp8a1AYeHFx0Iz8=
 github.com/git/git v2.36.1+incompatible/go.mod h1:B17BlExMbWcymdarLexglm7DJBhBmovtSHADsTWqDJY=
 github.com/golang/go v0.0.0-20220519071347-128279e5034c h1:cL20pZ4fQ5rmmUS+MedMAZ3K4XrfOeLj8owK99B48Vs=
 github.com/golang/go v0.0.0-20220519071347-128279e5034c/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
 github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9 h1:/ivCkXhHyzNK3OH4kTSU2cw5QLRtFtn5phms9zFsKn4=
 github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
-github.com/torvalds/linux v0.0.0-20191020021433-19a6d18efb51 h1:tBvvRg2G6Lmc3NXFg4yr/A7WH9XzraQ87RIOjfbMREU=
-github.com/torvalds/linux v0.0.0-20191020021433-19a6d18efb51/go.mod h1:duzrrZUq49Xw1J0921AAC4OZKLLIeFwonoOvFnLAmLA=
