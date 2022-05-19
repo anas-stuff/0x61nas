@@ -86,18 +86,8 @@ fmt.Println("Hi there!");
 </details>
 
 <!-- Social media links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:anas.elgarhy.dev@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="my email: anas.elgarhy.dev@gmail.com"/>
-  </a>
-  <a href="https://twitter.com/anas_elgarhy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="anas_elgarhy"/>
-  </a>
-  <a href="https://linkedin.com/in/anas-elgarhy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="anas-elgarhy"/>
-  </a>
-  <a href="https://instagram.com/anas_elgarhy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="anas_elgarhy"/>
-  </a>
-</p>
+### Connect with me:
+[![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "anas.elgarhy.dev@gmail.com")](mailto:anas.elgarhy.dev@gmail.com)
+[![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@anas_elgarhy")](https://twitter.com/anas_elgarhy)
+[![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@anas-elgarhy")](https://linkedin.com/in/anas-elgarhy)
+[![My instagram handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg "@anas_elgarhy")](https://instagram.com/anas_elgarhy)
