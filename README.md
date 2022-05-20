@@ -1,7 +1,7 @@
 <h1>
 
-```R
-print("Hi there!")
+```Go
+fmt.Println("Hi there!");
 ```
 </h1>
 <!-- START -->
