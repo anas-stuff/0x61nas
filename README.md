@@ -45,6 +45,7 @@ fmt.Println("Hi there!");
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-011111?style=for-the-badge&logo=intellij&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-D0021B?style=for-the-badge&logo=rust&logoColor=white)
+![Android](https://img.shields.io/badge/Android-00ff0?style=for-the-badge&logo=android&logoColor=white)
 
 ### My life in a code
 ```java
