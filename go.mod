@@ -16,4 +16,5 @@ require (
 	github.com/neovim/neovim v0.7.0 // indirect
 	github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9 // indirect
 	github.com/tmux/tmux v0.0.0-20220514191646-ead75c2d512c // indirect
+	github.com/zsh-users/zsh v0.0.0-20220520215050-a54d70457934 // indirect
 )

@@ -24,3 +24,5 @@ github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9 h1:/ivCkXhHyzNK3OH4
 github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
 github.com/tmux/tmux v0.0.0-20220514191646-ead75c2d512c h1:epjO/WMJKVID3DFQlqkDexy5PyBcmfFlg5u+yvU4xlk=
 github.com/tmux/tmux v0.0.0-20220514191646-ead75c2d512c/go.mod h1:0cK4jXyQ4RgQAmXZbf24SFISBAT5uZwKPuLUy3mrUPQ=
+github.com/zsh-users/zsh v0.0.0-20220520215050-a54d70457934 h1:twLNevuOn44CNxgt0m9kc5VLTtCFdkcpyV4xCQaNcUA=
+github.com/zsh-users/zsh v0.0.0-20220520215050-a54d70457934/go.mod h1:3WUck0PhYcYOTTdVooDtIn8oy6+mPM5oyIVUXQ/i+C0=
