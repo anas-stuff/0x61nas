@@ -1,7 +1,7 @@
 <h1>
 
-```Ruby
-puts "Hi there!\n";
+```Go
+fmt.Println("Hi there!");
 ```
 </h1>
 <!-- START -->
