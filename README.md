@@ -1,7 +1,7 @@
 <h1>
 
-```PHP
-echo "Hi there!\n";
+```Kotlin
+println("Hi there!")
 ```
 </h1>
 <!-- START -->
