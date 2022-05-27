@@ -1,7 +1,7 @@
 <h1>
 
-```JavaScript
-console.log("Hi there!");
+```PHP
+echo "Hi there!\n";
 ```
 </h1>
 <!-- START -->
