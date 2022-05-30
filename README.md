@@ -1,7 +1,7 @@
 <h1>
 
-```EmojiCode
-😀🔤Hi there!🔤❗
+```R
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
