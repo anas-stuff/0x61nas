@@ -1,7 +1,7 @@
 <h1>
 
-```R
-print("Hi there!")
+```EmojiCode
+😀🔤Hi there!🔤❗
 ```
 </h1>
 <!-- START -->
