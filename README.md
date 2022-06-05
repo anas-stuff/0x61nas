@@ -1,6 +1,6 @@
 <h1>
 
-```Swift
+```R
 print("Hi there!")
 ```
 </h1>
