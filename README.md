@@ -1,7 +1,7 @@
 <h1>
 
-```Java
-System.out.println("Hi there!");
+```Python
+print("Hi there!")
 ```
 </h1>
 <!-- START -->
