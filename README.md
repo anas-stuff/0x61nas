@@ -1,7 +1,7 @@
 <h1>
 
-```C#
-Console.WriteLine("Hi there!");
+```Rust
+println!("Hi there!")
 ```
 </h1>
 <!-- START -->
