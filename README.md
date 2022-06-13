@@ -1,7 +1,7 @@
 <h1>
 
-```Kotlin
-println("Hi there!")
+```CoffeeScript
+console.log("Hi there!")
 ```
 </h1>
 <!-- START -->
