@@ -1,7 +1,7 @@
 <h1>
 
-```Python
-print("Hi there!")
+```JavaScript
+console.log("Hi there!");
 ```
 </h1>
 <!-- START -->
