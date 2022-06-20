@@ -1,7 +1,7 @@
 <h1>
 
-```F#
-printfn("Hi there!")
+```Rust
+println!("Hi there!")
 ```
 </h1>
 <!-- START -->
