@@ -1,7 +1,7 @@
 <h1>
 
-```Objective-C
-NSLog("Hi there!")
+```Java
+System.out.println("Hi there!");
 ```
 </h1>
 <!-- START -->
