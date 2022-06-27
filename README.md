@@ -1,9 +1,7 @@
-<h1>
-
-```Python
-print("Hi there!")
-```
-</h1>
+<p align="center">
+<img alt="anime photo" src="./img/cover.jpg">
+<br/>
+</p>
 <!-- START -->
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
