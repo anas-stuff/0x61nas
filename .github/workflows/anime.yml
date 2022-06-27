@@ -31,7 +31,7 @@ jobs:
       - name: Change the cover
         run: |
           cd photo
-          python anime.py "${PINTEREST_EMAIL}" "${PINTEREST_PASSWORD}" "${PINTEREST_USERNAME}"
+          python anime.py "${{ secrets.PINTEREST_EMAIL }}" "${{ secrets.PINTEREST_PASSWORD }}" "${{ secrets.PINTEREST_USERNAME }}"
 
       - name: Commit README
         run: |
