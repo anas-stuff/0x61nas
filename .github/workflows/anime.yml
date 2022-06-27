@@ -1,4 +1,4 @@
-name: Generate Hello code in Readme File
+name: Change cover image
 
 on:
   push:
