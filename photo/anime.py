@@ -7,7 +7,7 @@ from py3pin.Pinterest import Pinterest
 
 # Checking if the user has entered the required arguments.
 if len(sys.argv) < 4:
-    print("Usage: python3 anime.py <pinterest email> <pinterest password> <pinterest username>")
+    print("Usage: python3 " + sys.argv[0] + " <pinterest email> <pinterest password> <pinterest username>")
     sys.exit(1)
 
 pinterest = Pinterest(email=sys.argv[1],
@@ -45,8 +45,6 @@ while len(pins) > 2:
 
     # Get pin's image url
     pinInfo = pinterest.load_pin(pin_id=pin.get('id'))
-    p = pinInfo.get('images')
-    print(p)
     imageUrl = pinInfo.get('images').get('474x').get('url')
 
     print(imageUrl)
@@ -73,6 +71,7 @@ while len(pins) > 2:
         file.close()
         # Delete file from cache
         os.remove(cacheDir + "cover.jpg")
+        # It's skipping the rest of the code in the loop and going back to the top.
         continue
 
     # if not, move the image to the save directory
@@ -83,3 +82,5 @@ while len(pins) > 2:
 
     # Break the loop
     break
+
+print("Done ☺")
