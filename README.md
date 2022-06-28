@@ -46,7 +46,7 @@
 ![Android](https://img.shields.io/badge/Android-00ff0?style=for-the-badge&logo=android&logoColor=white)
 
 ### My life in a code
-```java
+```java 
 while(me.isAlive()){
     me.startCoding();
     try {
