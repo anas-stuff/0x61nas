@@ -1,28 +1,30 @@
 import sys
+import os
 from random import randint
 import requests
 # third-party imports
 from py3pin.Pinterest import Pinterest
 
-# Test
-print("email: " + sys.argv[1])
-# print("password: " + sys.argv[2])
-print("username: " + sys.argv[3])
-print('********************************************************************************')
+# Checking if the user has entered the required arguments.
+if len(sys.argv) < 4:
+    print("Usage: python3 anime.py <pinterest email> <pinterest password> <pinterest username>")
+    sys.exit(1)
 
 pinterest = Pinterest(email=sys.argv[1],
                       password=sys.argv[2],
                       username=sys.argv[3],
                       cred_root='cred_root')
 
+# It's logging in to the Pinterest account.
 pinterest.login()
 
 # Get all boards
 boards = pinterest.boards_all()
 
-#Get anime board id
+# Get anime board id
 animeBoardId = ""
 for board in boards:
+    # Checking if the board name is "Anime".
     if board.get('name') == "Anime":
         animeBoardId = board.get('id')
         break
@@ -30,21 +32,54 @@ for board in boards:
 # Get all pins in the Anime board
 pins = pinterest.board_feed(board_id=animeBoardId)
 
-# Get random pin
-pin = pins[randint(0, len(pins) - 1)]
 
-# Get pin's image url
-pinInfo = pinterest.load_pin(pin_id=pin.get('id'))
-p = pinInfo.get('images')
-print(p)
-imageUrl = pinInfo.get('images').get('474x').get('url')
+# The directory where the image will be saved.
+saveDir = "../img/"
 
-print(imageUrl)
+# Creating a directory called cache.
+cacheDir = "cache/"
 
-# Download image
-image = requests.get(imageUrl)
+while len(pins) > 2:
+    # Get random pin
+    pin = pins[randint(0, len(pins) - 1)]
 
-file = open("../img/cover.jpg", "wb")
-file.write(image.content)
-file.close()
+    # Get pin's image url
+    pinInfo = pinterest.load_pin(pin_id=pin.get('id'))
+    p = pinInfo.get('images')
+    print(p)
+    imageUrl = pinInfo.get('images').get('474x').get('url')
 
+    print(imageUrl)
+
+    # Download image
+    image = requests.get(imageUrl)
+
+    # Checking if the cache directory exists. If it doesn't, it creates it.
+    if not os.path.exists(cacheDir):
+        os.makedirs(cacheDir)
+
+    # Save image to cache directory
+    file = open(cacheDir + "cover.jpg", "wb")
+    file.write(image.content)
+    file.close()
+
+    # Reopen the image in a read mode.
+    file = open(cacheDir + "cover.jpg", "rb")
+
+    # Compare image with the previous one
+    if file.read() == open(saveDir + "cover.jpg", "rb").read():
+        print("Same image")
+        # Close file
+        file.close()
+        # Delete file from cache
+        os.remove(cacheDir + "cover.jpg")
+        continue
+
+    # if not, move the image to the save directory
+    os.rename(cacheDir + "cover.jpg", saveDir + "cover.jpg")
+
+    # Close file
+    file.close()
+
+    # Break the loop
+    break
