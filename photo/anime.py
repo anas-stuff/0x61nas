@@ -74,7 +74,8 @@ while len(pins) > 2:
         # It's skipping the rest of the code in the loop and going back to the top.
         continue
 
-    # if not, move the image to the save directory
+    # It's deleting the old image and replacing it with the new one.
+    os.remove(saveDir + "cover.jpg")
     os.rename(cacheDir + "cover.jpg", saveDir + "cover.jpg")
 
     # Close file
