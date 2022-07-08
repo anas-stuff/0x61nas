@@ -36,7 +36,9 @@ pins = pinterest.board_feed(board_id=animeBoardId)
 # The directory where the image will be saved.
 saveDir = "../img/"
 
-# Creating a directory called cache.
+
+
+# The cache directory.
 cacheDir = "cache/"
 
 while len(pins) > 2:
@@ -56,6 +58,10 @@ while len(pins) > 2:
     if not os.path.exists(cacheDir):
         os.makedirs(cacheDir)
 
+    # Checking if the save directory exists. If it doesn't, it creates it.
+    if not os.path.exists(saveDir):
+        os.makedirs(saveDir)
+
     # Save image to cache directory
     file = open(cacheDir + "cover.jpg", "wb")
     file.write(image.content)
@@ -65,7 +71,8 @@ while len(pins) > 2:
     file = open(cacheDir + "cover.jpg", "rb")
 
     # Compare image with the previous one
-    if file.read() == open(saveDir + "cover.jpg", "rb").read():
+    path = saveDir + "cover.jpg"
+    if os.path.exists(path) and file.read() == open(path, "rb").read():
         print("Same image")
         # Close file
         file.close()
@@ -75,11 +82,15 @@ while len(pins) > 2:
         continue
 
     # It's deleting the old image and replacing it with the new one.
-    os.remove(saveDir + "cover.jpg")
-    os.rename(cacheDir + "cover.jpg", saveDir + "cover.jpg")
+    if os.path.exists(path):
+        os.remove(path)
+    os.rename(cacheDir + "cover.jpg", path)
 
     # Close file
     file.close()
+
+    # Remove cache directory
+    os.rmdir(cacheDir)
 
     # Break the loop
     break
