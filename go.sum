@@ -8,6 +8,8 @@ github.com/alacritty/alacritty v0.10.1 h1:7aHtCnO1P0VNk6Aj3M4On5kwknXbYMgLJedvVi
 github.com/alacritty/alacritty v0.10.1/go.mod h1:TksKNqvr9RAKllNJlOP8wPPFGiW6RR9DCIEoJvDEedI=
 github.com/anas-elgarhy/jls v0.0.0-20220623074106-071234a94c71 h1:dlEEOyXv4klCc7DnrUwZkBOgTdn2fO/DyW20N+gZCGE=
 github.com/anas-elgarhy/jls v0.0.0-20220623074106-071234a94c71/go.mod h1:wm9XyY2NzvPssgWnZM289vCURtypBEdwIzZDxOfbQGI=
+github.com/anas-elgarhy/jpwd v0.0.0-20220623164522-5e7658468e0f h1:lXZry0oc2tuz36QYBL7PRCQqsIoL258F6KyT5Q4TjN0=
+github.com/anas-elgarhy/jpwd v0.0.0-20220623164522-5e7658468e0f/go.mod h1:AJqweC5um+E6uqHBmbl0Km+4qBJf8h0R95mCn6Y+jlc=
 github.com/cmus/cmus v2.9.1+incompatible h1:rzsbsLgC5ZtYr1f4p4GAQDRQnCrsTz3edvWzN2f5JeY=
 github.com/cmus/cmus v2.9.1+incompatible/go.mod h1:jqdonbIO32hdCCwF4/zDAY9j97FBdzCbb5fweSalSwY=
 github.com/drkhsh/slstatus v0.0.0-20201130203214-84a2f117a32f h1:HQUvOCQdBPxllqenPB20E2q26pyZFpAx4gc9DxFNWNY=
