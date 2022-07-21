@@ -6,6 +6,7 @@ require (
 	github.com/Anas-Elgarhy/JCmusIntegrationWithDiscord v1.1.0 // indirect
 	github.com/Anas-Elgarhy/dwm v0.0.0-20220519083658-f84ab69cee14 // indirect
 	github.com/Anas-Elgarhy/slstatus v0.0.0-20220501211816-a3fb8788206d // indirect
+	github.com/NvChad/NvChad v0.0.0-20220716014929-ce027efbe956 // indirect
 	github.com/alacritty/alacritty v0.10.1 // indirect
 	github.com/anas-elgarhy/jls v0.0.0-20220623074106-071234a94c71 // indirect
 	github.com/anas-elgarhy/jpwd v0.0.0-20220623164522-5e7658468e0f // indirect
