@@ -7,6 +7,7 @@ require (
 	github.com/Anas-Elgarhy/dwm v0.0.0-20220519083658-f84ab69cee14 // indirect
 	github.com/Anas-Elgarhy/slstatus v0.0.0-20220501211816-a3fb8788206d // indirect
 	github.com/alacritty/alacritty v0.10.1 // indirect
+	github.com/anas-elgarhy/jls v0.0.0-20220623074106-071234a94c71 // indirect
 	github.com/cmus/cmus v2.9.1+incompatible // indirect
 	github.com/drkhsh/slstatus v0.0.0-20201130203214-84a2f117a32f // indirect
 	github.com/garbeam/dwm v0.0.0-20190202125042-cb3f58ad0699 // indirect
