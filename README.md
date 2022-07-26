@@ -72,7 +72,7 @@ while(me.isAlive()){
   <img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight&hide=other" width="70%">
   <br>
 
-![Number of visits](https://badges.pufler.dev/visits/Anas-Elgarhy/Anas-Elgarhy "Number of visits")
+![Number of visits](https://badges.pufler.dev/visits/anas-elgarhy/anas-elgarhy "Number of visits")
 [![Last time update this file](https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Anas-Elgarhy/Anas-Elgarhy)
 [![Total time of coding](https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg "Total time of coding")](https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20)
 
