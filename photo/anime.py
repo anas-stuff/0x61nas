@@ -32,11 +32,8 @@ for board in boards:
 # Get all pins in the Anime board
 pins = pinterest.board_feed(board_id=animeBoardId)
 
-
 # The directory where the image will be saved.
 saveDir = "../img/"
-
-
 
 # The cache directory.
 cacheDir = "cache/"
