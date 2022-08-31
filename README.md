@@ -90,3 +90,4 @@ while(me.isAlive()){
 [![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@anas_elgarhy")](https://twitter.com/anas_elgarhy)
 [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@anas-elgarhy")](https://linkedin.com/in/anas-elgarhy)
 [![My instagram handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg "@anas_elgarhy")](https://instagram.com/anas_elgarhy)
+[![matrix: @anas-elgarhy:matrix.org](https://raw.githubusercontent.com/anas-elgarhy/ColoredBadges/master/svg/social/matrix.svg "@anas-elgarhy:matrix.org")](https://matrix.to/#/@anas-elgarhy:matrix.org)
