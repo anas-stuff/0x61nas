@@ -64,7 +64,6 @@ while(me.isAlive()){
   <img alt="Visitors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
 </p>
 <!-- More details -->
-<p align="center">
 <details>
   <summary>
     <samp>&#9776; See more details</samp>
@@ -83,7 +82,6 @@ while(me.isAlive()){
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </details>
-</p>
 
 <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/anas-elgarhy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/anas-elgarhy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/anas-elgarhy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
@@ -94,4 +92,6 @@ while(me.isAlive()){
 [![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@anas-elgarhy")](https://linkedin.com/in/anas-elgarhy)
 [![My instagram handel: @anas_elgarhy](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@anas_elgarhy")](https://instagram.com/anas_elgarhy)
 [![matrix: @anas-elgarhy:matrix.org](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/matrix.svg "@anas-elgarhy:matrix.org")](https://matrix.to/#/@anas-elgarhy:matrix.org)
-
+<p align="center">
+    <img alt="fu*k facebook" src="./assets/no-facebook.svg" width="50%">
+</p>
