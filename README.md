@@ -4,7 +4,9 @@
 </p>
 <!-- START -->
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anas-Elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
+
+
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anas-elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
 - I'm currently learning IT in the EELU university 😁
 - But I'm learning to programming Since I was 13 years old 😄
@@ -15,7 +17,7 @@
 
 <!-- contribution snake -->
 <p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/anas-elgarhy/anas-elgarhy/output/github-contribution-grid-snake.svg" />
 </p>
 <br>
 <p  align="center">
@@ -59,31 +61,55 @@ while(me.isAlive()){
     }
 }
 ```
+<p align="center">
+    <img alt="My discord account: ;;#8946" src="https://discord.c99.nl/widget/theme-3/630440518567854110.png">
+</p>
+<sub>
+    <p align="center">
+        <i>
+            NOTE: Usually I take up to 3 days to respond to a message :), Unless if you girl you are love the programming and open source and single and your age 19
+        </i>
+    </p>
+</sub>
 
 <p align="center">Visitors counter ↖ <br>
-  <img alt="Visitors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
+  <img alt="Visitors counter ↖" src="https://count.getloli.com/get/@anas-elgarhy?theme=rule34"/>
 </p>
+<sub>
+    <p align="center">
+        <i>
+            NOTE: Visitors counted since 23 october 2022
+        </i>
+    </p>
+</sub>
 <!-- More details -->
 <details>
   <summary>
     <samp>&#9776; See more details</samp>
   </summary>
   <br>
+<p align="center">
   <img alt="wakatime status" src="https://github-readme-stats.vercel.app/api/wakatime?username=anas_elgarhy&layout=compact&theme=tokyonight&hide=other" width="70%">
-  <br>
 
-[![Last time update this file](https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Anas-Elgarhy/Anas-Elgarhy)
-[![Total time of coding](https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg "Total time of coding")](https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20)
+<p align="center">
+    <a href="https://github.com/anas-elgarhy/anas-elgarhy">
+        <img alt="Last update time" src="https://img.shields.io/github/last-commit/anas-elgarhy/anas-elgarhy?label=profile%20updated&style=flat-square">
+    </a>
+    <a href="https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20">
+        <img alt="Total time of coding" src="https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg">
+    </a>
+</p>
 
-### 💻 Workspace Specs
-![General](https://img.shields.io/badge/Arch-Lenovo_legion_y540-0078D6?style=for-the-badge&logo=Arch-linux&logoColor=white)
-![CPU](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-16GB-121006?style=for-the-badge&logo=RAM&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
+<h3 align="center"> 💻 Workspace Specs </h3>
+<p align="center">
+    <img alt="Lenovo Legion with Arch Linux" src="https://img.shields.io/badge/Arch-Lenovo_legion_y540-0078D6?style=for-the-badge&logo=Arch-linux&logoColor=white">
+    <img alt="Intel Core i7 9750H" src="https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img alt="NVIDIA GeForce GTX 1660TI" src="https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img alt="16GB RAM" src="https://img.shields.io/badge/RAM-16GB-121003?style=for-the-badge&logo=ram&logoColor=white">
+</p>
 </details>
 
-<table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/anas-elgarhy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/anas-elgarhy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/anas-elgarhy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<table align=center><tr><td><a href=https://octo-ring.com/ ><img align=top alt="Octo Ring logo"src=https://octo-ring.com/static/img/widget/top.png width=99%></a><br><a href=https://octo-ring.com/p/anas-elgarhy/prev><img align=top alt=previous src=https://octo-ring.com/static/img/widget/prev.png width=33% title="previous profile"></a><a href=https://octo-ring.com/p/anas-elgarhy/random><img align=top alt=random src=https://octo-ring.com/static/img/widget/random.png width=33% title="random profile"></a><a href=https://octo-ring.com/p/anas-elgarhy/next><img align=top alt=next src=https://octo-ring.com/static/img/widget/next.png width=33% title="next profile"></a><br><a href=https://octo-ring.com/ ><img align=top alt="check out other GitHub profiles in the Octo Ring"src=https://octo-ring.com/static/img/widget/bottom.png width=99%></a></table>
 
 <!-- Social media links -->
 ### Connect with me:
@@ -93,5 +119,5 @@ while(me.isAlive()){
 [![My instagram handel: @anas_elgarhy](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@anas_elgarhy")](https://instagram.com/anas_elgarhy)
 [![matrix: @anas-elgarhy:matrix.org](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/matrix.svg "@anas-elgarhy:matrix.org")](https://matrix.to/#/@anas-elgarhy:matrix.org)
 <p align="center">
-    <img alt="fu*k facebook" src="./assets/no-facebook.svg" width="50%">
+    <img alt="fu*k facebook" src="./assets/no-facebook.svg" width="350px">
 </p>
