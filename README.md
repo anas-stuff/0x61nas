@@ -8,10 +8,10 @@
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anas-elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
-- I'm currently learning IT in the EELU university 😁
-- But I'm learning to programming Since I was 13 years old 😄
+- I'm currently learning IT in EELU university 😁
+- But I have been learning programming since 13 years old 😄
 - I'm very very very in love with programming 🖤 
-- And I'm love cats very much too 😍 
+- And I love cats very much too 😍 
 - I'm very very very in love with linux 🐧🤍
 - I'm very very very in love with Open Source 💙💙💙
 
@@ -67,7 +67,7 @@ while(me.isAlive()){
 <sub>
     <p align="center">
         <i>
-            NOTE: Usually I take up to 3 days to respond to a message :), Unless if you girl you are love the programming and open source and single and your age 19
+            NOTE: Usually I take up to 3 days to respond to a message :), Unless you are a girl who loves programming and open source and single and your age is 19
         </i>
     </p>
 </sub>
