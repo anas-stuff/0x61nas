@@ -1,7 +1,3 @@
-<p align="center">
-<img alt="anime photo" src="./img/cover.jpg">
-<br/>
-</p>
 <!-- START -->
 
 
