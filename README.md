@@ -43,6 +43,12 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-011111?style=for-the-badge&logo=intellij&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-D0021B?style=for-the-badge&logo=rust&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-00ff0?style=for-the-badge&logo=android&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### My life in a code
 ```java 
