@@ -16,6 +16,7 @@ require (
 	github.com/git/git v2.36.1+incompatible // indirect
 	github.com/golang/go v0.0.0-20220519071347-128279e5034c // indirect
 	github.com/jetBrains/kotlin v1.6.21 // indirect
+	github.com/kovidgoyal/kitty v0.26.5 // indirect
 	github.com/neovim/neovim v0.7.0 // indirect
 	github.com/qtile/qtile v0.21.0 // indirect
 	github.com/rust-lang/rust v0.0.0-20220519040440-50872bdb99c9 // indirect

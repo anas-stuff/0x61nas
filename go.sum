@@ -24,6 +24,8 @@ github.com/golang/go v0.0.0-20220519071347-128279e5034c h1:cL20pZ4fQ5rmmUS+MedMA
 github.com/golang/go v0.0.0-20220519071347-128279e5034c/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
 github.com/jetBrains/kotlin v1.6.21 h1:FWoWgIHWC9MLGAZmalXTUS7imsYQLXhe9oJFk5ix4LI=
 github.com/jetBrains/kotlin v1.6.21/go.mod h1:j+mK3jdYrslZm3Q4APO60fUIIF1WFpRWT6e24HBPv5k=
+github.com/kovidgoyal/kitty v0.26.5 h1:3VXxiC22vlFtye55booi0kZfyRsMAozUSDPPq36Ewgc=
+github.com/kovidgoyal/kitty v0.26.5/go.mod h1:MLgXYnrYZk8gATb7fHAe5DTAX7xjSq3JfFHaY+IEKqY=
 github.com/neovim/neovim v0.7.0 h1:Ll6YpnzdBIL4dxA0PpFeoIIG6UJoj2OlsuyZMnpcuac=
 github.com/neovim/neovim v0.7.0/go.mod h1:qD1yPIwRSzTx5Jevki6FB0NygCAkBcJAf3EpWngASIk=
 github.com/qtile/qtile v0.21.0 h1:6oxs/rG2EunbC0lv7QCh8JHiig13FT+3zSfA2h3Ovoc=
