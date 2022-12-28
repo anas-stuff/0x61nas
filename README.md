@@ -10,6 +10,7 @@
 - And I love cats very much too 😍 
 - I'm very very very in love with linux 🐧🤍
 - I'm very very very in love with Open Source 💙💙💙
+- I'm love to learn new things about computers 🖥️ and space 🌌
 
 <!-- contribution snake -->
 <p align="center">
