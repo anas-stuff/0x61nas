@@ -62,7 +62,7 @@ while(me.isAlive()){
         me.getCode().compile();
         me.getCode().run();
     } catch (Exception e) {
-        Google.serch("How to do fix " + me.getCode().getProplem())
+        Google.serch("How to do fix " + me.getCode().getProblem())
         .openStackOverFlow().copyAnswer();
         me.getCode().paste();
     }
