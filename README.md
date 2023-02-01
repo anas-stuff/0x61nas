@@ -68,16 +68,6 @@ while(me.isAlive()){
     }
 }
 ```
-<p align="center">
-    <img alt="My discord account: ;;#8946" src="https://discord.c99.nl/widget/theme-3/630440518567854110.png">
-</p>
-<sub>
-    <p align="center">
-        <i>
-            NOTE: Usually I take up to 3 days to respond to a message :), Unless you are a girl who loves programming and open source and single and your age is 19
-        </i>
-    </p>
-</sub>
 
 <p align="center">Visitors counter ↖ <br>
   <img alt="Visitors counter ↖" src="https://count.getloli.com/get/@anas-elgarhy?theme=rule34"/>
