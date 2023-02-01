@@ -1,6 +1,51 @@
 <!-- START -->
 
+## My GPG key
 
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQGNBGO/oD8BDACnmTVcv/xysGWrY3Qdk1MWHymPGUVZAbUDemNKqlT+G6rWdipv
+Fa3V/uu/NdQ7Xd2b9r2Z0JXL5a3uecApU7qcBuzaUJboVw5xyQxHsSE5eEY+lObF
+ehVQlbciNsFDqdSNprvQ/Ppy13anC87vFHvbucxC/9MyZ1n/IKB/i6Ywk4fsPymh
+rRzV4yYcxhPZmXsJ8XfaUsOKVr/jIcrVb/MlM9y2shZ+fb1Xjcx3y/U91Yd/Z4h8
+Z0rlEzzdepZei/WcBusKcsogRyv0dRIyNVSCGWA9srusIE0TYh5np/yPqjaUp/Qd
+s5MrcTk0opnSC/WDgCuv3DYJM/i95N/DlAI+hMMfAQW0khp6tXgT6zlMxm6Z+Hwu
+o4bIF2cCyxiu6j0TUegmH6JiDNGIolTQUP2yaiumc8s0jvhmKB+G/zr3roMRx5H/
+mBcqPecAOhHwplFl1CbFdqlF/LmLY0KfNwHfs4jU4IX0K8nPmyt0KyJo8llLixIN
+ZVG3L5o09+j1MsUAEQEAAbQpQW5hcyBFbGdhcmh5IDxhbmFzLmVsZ2FyaHkuZGV2
+QGdtYWlsLmNvbT6JAc4EEwEIADgWIQRFFPOehA4P/N6dKBUFAYAqHUllKAUCY7+g
+PwIbAwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRAFAYAqHUllKPBqDACfMVuI
+d3BDXgO5tH1VZjstrBSqzrZbT1TjEmAO/nMi2H2r7sOd0AhQVecgWAqi5hT8mHLM
+OhAR5hXfelP6hK2fkP4pj/CUWcamHzcgllJEUYKUtgS0nxw2GYvgFQ+9tFs/cvSU
+HYj19thzbX23s/Qb3COpWfce4m6tHGnzgsBbhTw/ISsDkXDynoK6P9DRMUba8VSU
+u80038FJQxPBS0lUmQBJmNCqxbIgzxpI+jHXljVhPFbmFpKGVtd340hqdIKaRLwu
+LUimthBw9qfrtStXKx64I19f9Lqs2NnsUABNvOz9hoJ8jhFjnUNyY7KVTICNM5yw
+mBWdB/mpqwYVciCN0VmAYKFq0FC91qr7r5XgN0BcXrWIoxSa47Xz5rz8KWD73cUN
+uI4i0Mg12y6cbFUnmLRSDVog9ls+TnuWUZAXRJ0QEyuKuhh4QGJhRGMtTQGyzZlC
+1+kRcvkw1hcPXnb1s+rP3p8ml6VnR2yrDPIBiOXxTtvjCtXmC1ttsd9hWc25AY0E
+Y7+gPwEMAMUvxXEaSxiD/bPCffRmV3o+OYPCc1yL72kbdUbYt6XPmNhCmzhC7j5z
+eQFrwqUIhwLBjNb6wif/29cFoTtxSwCy/WnI07CuU4ndw78dr9T3A+pSRtLg8boZ
+7Zf6/rhYr1zgnELxu+CVZPSTCO19Fkriutb3T9tcB+WiIbwlADUYB5x8yHeR4SwJ
+S2xB4lYCkmk542VXQbr3pplJw++yxuwuBPTy2OEOcd9ofLd7J2nlDyr5te+FRqAK
+01NU3G5nh/3I2PqMsYjVJp3pQHUmYQ7ZQJ4w9Ne8bKUHBSjmdqv+oUT+8oZ+eZ5J
+vzdmhfpt4pUdI9zR5/+ptlQoDiG+6fWOweaezGPRPkYqoyATNoJVTSHFOVpCTDcl
+4mUkDEyWmckWXFIcUImNoKNOb0Df7kLZ5yGaejFX9EoeUnKwdDbS78uQybGL+nOe
+BVQkvma3ONwdIrMj8XAbG3DBpee+JC/ixoCqhTrzwir58NTOzFampq+Ytlxei1ic
+PBL0RfDmHQARAQABiQG2BBgBCAAgFiEERRTznoQOD/zenSgVBQGAKh1JZSgFAmO/
+oD8CGwwACgkQBQGAKh1JZSicxwv9Hh3IMWuVDKPlznfJce9XC/ZQW33VCqZpQRGB
+vxoxZfWpFxXCzcax5ExGpbVLsFpVpYBf+Xvf0BgPVB/TW8o7MEwvbF4wWzWG7LU+
+5GwlNexsJtSpB9g77BMN77t+kPLW8iT9iwdKKAB+C7gUIg+wRwxeMPHEqbWLmdXC
+SarSYo4FCGG+z0rU1uYqF83BAQZ9zBwLs98YHaPFers3biNnOut9G3Or9eByi012
+SD/MT2xYAvJcnFopqlGqUtb1eUfhJxK+4b6qj1P0yS2goltT3qvXMe7Sjx279xB4
+nMmyyM2ZGWbJMh58156hsxL2Q66ZMm2TNJ47IOPUIrsudyfvhKECRjUKjtvtRSZ0
+fUwSlCheKJa38he7kkCnPFMGRsBkOx7FLGB8xksOaDwrmIxM580NNpBWfbM6LtH+
+v8pavSM4zOwofNmaY7hLC3OO/kYs+dyaRTbdO2prLeMo1FHESz/nVS2yvGpSRG9A
+7JmfDEIeWKoH9LBanGMcPvEATYhB
+=nmFl
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anas-elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
