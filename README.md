@@ -15,10 +15,6 @@
     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/anas-elgarhy/anas-elgarhy/github-contribution-snake-output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-    <a href="https://gist.github.com/anas-elgarhy/98e9e8504d12c0c05fd87f83d5d3d972"> My publicc GPG key</a>
-</p>
-
 <!-- My quote -->
 <p align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
 
@@ -82,6 +78,11 @@ while(me.isAlive()){
         </i>
     </p>
 </sub>
+
+<p align="center">
+    <a href="https://gist.github.com/anas-elgarhy/98e9e8504d12c0c05fd87f83d5d3d972"> My public GPG key 🔑 </a>
+</p>
+
 <!-- More details -->
 <details>
   <summary>
