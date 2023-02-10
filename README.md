@@ -112,13 +112,3 @@ while(me.isAlive()){
 
 <table align=center><tr><td><a href=https://octo-ring.com/ ><img align=top alt="Octo Ring logo"src=https://octo-ring.com/static/img/widget/top.png width=99%></a><br><a href=https://octo-ring.com/p/anas-elgarhy/prev><img align=top alt=previous src=https://octo-ring.com/static/img/widget/prev.png width=33% title="previous profile"></a><a href=https://octo-ring.com/p/anas-elgarhy/random><img align=top alt=random src=https://octo-ring.com/static/img/widget/random.png width=33% title="random profile"></a><a href=https://octo-ring.com/p/anas-elgarhy/next><img align=top alt=next src=https://octo-ring.com/static/img/widget/next.png width=33% title="next profile"></a><br><a href=https://octo-ring.com/ ><img align=top alt="check out other GitHub profiles in the Octo Ring"src=https://octo-ring.com/static/img/widget/bottom.png width=99%></a></table>
 
-<!-- Social media links -->
-### Connect with me:
-[![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/email_me.svg "anas.elgarhy.dev@gmail.com")](mailto:anas.elgarhy.dev@gmail.com)
-[![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@anas_elgarhy")](https://twitter.com/anas_elgarhy)
-[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@anas-elgarhy")](https://linkedin.com/in/anas-elgarhy)
-[![My instagram handel: @anas_elgarhy](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@anas_elgarhy")](https://instagram.com/anas_elgarhy)
-[![matrix: @anas-elgarhy:matrix.org](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/matrix.svg "@anas-elgarhy:matrix.org")](https://matrix.to/#/@anas-elgarhy:matrix.org)
-<p align="center">
-    <img alt="fu*k facebook" src="./assets/no-facebook.svg" width="350px">
-</p>
