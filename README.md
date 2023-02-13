@@ -53,21 +53,6 @@
 ![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Fish shell](https://img.shields.io/badge/Fish_shell-000000?style=for-the-badge&logo=fish-shell&logoColor=white)
 
-### My life in a code
-```java 
-while(me.isAlive()){
-    me.startCoding();
-    try {
-        me.getCode().compile();
-        me.getCode().run();
-    } catch (Exception e) {
-        Google.serch("How to do fix " + me.getCode().getProblem())
-        .openStackOverFlow().copyAnswer();
-        me.getCode().paste();
-    }
-}
-```
-
 <p align="center">Visitors counter ↖ <br>
   <img alt="Visitors counter ↖" src="https://count.getloli.com/get/@anas-elgarhy?theme=rule34"/>
 </p>
