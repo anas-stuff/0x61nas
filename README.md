@@ -10,11 +10,6 @@
 - I'm very very very in love with Open Source 💙💙💙
 - I'm love to learn new things about computers and space 🌌
 
-<!-- contribution snake -->
-<p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/anas-elgarhy/anas-elgarhy/github-contribution-snake-output/github-contribution-grid-snake.svg" />
-</p>
-
 <!-- My quote -->
 <p align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
 
