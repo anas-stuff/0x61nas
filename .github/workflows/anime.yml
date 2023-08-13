@@ -32,8 +32,9 @@ jobs:
         run: |
           git checkout -B media/cover
           rm -rf *
+          git checkout aurora
         
-      - name: Pull an random cover from ur pinterest
+      - name: Pull a random cover from ur Pinterest
         run: |
           cd photo
           python anime.py "${{ secrets.PINTEREST_EMAIL }}" "${{ secrets.PINTEREST_PASSWORD }}" "${{ secrets.PINTEREST_USERNAME }}"
@@ -42,6 +43,7 @@ jobs:
         run: |
           git config user.name github-action
           git config user.email github-actions@github.com
+          git checkout media/cover
           git add .
           git commit -am "chore(cover): change cover image"
           git push -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
