@@ -24,8 +24,8 @@ boards = pinterest.boards_all()
 # Get anime board id
 animeBoardId = ""
 for board in boards:
-    # Checking if the board name is "Anime".
-    if board.get('name') == "Anime":
+    # Checking if the board name is Random "Anime".
+    if board.get('name') == "Random Anime":
         animeBoardId = board.get('id')
         break
 
