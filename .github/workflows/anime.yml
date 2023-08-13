@@ -32,14 +32,12 @@ jobs:
 
       - name: Change the branch
         run: |
+          cp photo/anime.py /tmp
           git checkout -B media/cover
           rm -rf *
-          git checkout aurora
         
       - name: Pull a random cover from ur Pinterest
-        run: |
-          cd photo
-          python anime.py "${{ secrets.PINTEREST_EMAIL }}" "${{ secrets.PINTEREST_PASSWORD }}" "${{ secrets.PINTEREST_USERNAME }}"
+        run: python /tmp/anime.py "${{ secrets.PINTEREST_EMAIL }}" "${{ secrets.PINTEREST_PASSWORD }}" "${{ secrets.PINTEREST_USERNAME }}"
 
       - name: Commit new cover
         run: |
