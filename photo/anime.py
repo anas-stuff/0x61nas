@@ -33,10 +33,10 @@ for board in boards:
 pins = pinterest.board_feed(board_id=animeBoardId)
 
 # The directory where the image will be saved.
-saveDir = "../img/"
+saveDir = "./img/"
 
 # The cache directory.
-cacheDir = "cache/"
+cacheDir = "./cache/"
 
 while len(pins) > 2:
     # Get random pin
@@ -92,4 +92,4 @@ while len(pins) > 2:
     # Break the loop
     break
 
-print("Done ☺")
+print("Done.")
