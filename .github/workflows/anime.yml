@@ -35,8 +35,8 @@ jobs:
 
       - name: Commit new cover
         run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git config user.name github-action
+          git config user.email github-actions@github.com
           git add .
           git commit -am "Change cover image"
           git push -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
