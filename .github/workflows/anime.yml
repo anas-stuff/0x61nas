@@ -43,5 +43,5 @@ jobs:
           git config user.name github-action
           git config user.email github-actions@github.com
           git add .
-          git commit -am "Change cover image"
+          git commit -am "chore(cover): change cover image"
           git push -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
