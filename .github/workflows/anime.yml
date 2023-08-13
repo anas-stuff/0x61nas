@@ -6,6 +6,8 @@ on:
       - master
   schedule:
     - cron: "0 */24 * * *"
+  # allows to run the job at any time manually
+  workflow_dispatch:
 
 jobs:
   build:
