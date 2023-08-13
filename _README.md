@@ -1,22 +1,5 @@
 <!-- START -->
-
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anas-elgarhy&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
-
-- I'm currently learning IT in EELU university 😁
-- But I have been learning programming since 13 years old 😄
-- I'm very very very in love with programming 🖤 
-- And I love cats very much too 😍 
-- I'm very very very in love with linux 🐧🤍
-- I'm very very very in love with Open Source 💙💙💙
-- I'm love to learn new things about computers and space 🌌
-
-<!-- contribution snake -->
-<p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/anas-elgarhy/anas-elgarhy/github-contribution-snake-output/github-contribution-grid-snake.svg" />
-</p>
-
-<!-- My quote -->
-<p align="center"> &quot;I have complete faith that one line of code can change the world n_n&quot; </p>
+Hi
 
 ### My Toolbox 🧰
 ![my distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
